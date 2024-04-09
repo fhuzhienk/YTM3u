@@ -28,7 +28,6 @@ jobs:
         touch ./RohaniMusik.m3u8
         sudo cat >./RohaniMusik.m3u8 <<EOL
         #EXTM3U
-        #EXT-X-VERSION:3
         $(yt-dlp --print urls https://www.youtube.com/@PrayerPray/live)
         EOL
     - name: Get Wolfoosstories.m3u8
