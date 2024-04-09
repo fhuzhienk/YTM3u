@@ -31,46 +31,4 @@ Green Music BGM channel,https://raw.githubusercontent.com/YuanHsing/YTM/main/Gre
 Hawaiian Music BGM channel,https://raw.githubusercontent.com/YuanHsing/YTM/main/HawaiianMusicBGMchannel.m3u8
 Nemo's Dreamscapes,https://raw.githubusercontent.com/YuanHsing/YTM/main/NemosDreamscapes.m3u8
 
-🐳Live,#genre#
-NatureRelax4K,https://raw.githubusercontent.com/YuanHsing/YTM/main/NatureRelax4K.m3u8
-Space Videos,https://raw.githubusercontent.com/YuanHsing/YTM/main/SpaceVideosHD.m3u8
-RailWay,https://raw.githubusercontent.com/YuanHsing/YTM/main/RailWay.m3u8
-RailCowGirl,https://raw.githubusercontent.com/YuanHsing/YTM/main/RailCowGirl.m3u8
-Virtual Railfan,https://raw.githubusercontent.com/YuanHsing/YTM/main/VirtualRailfan.m3u8
-JAPAN 4K,https://raw.githubusercontent.com/YuanHsing/YTM/main/JAPAN_4K.m3u8
-Aurora Borealis,https://raw.githubusercontent.com/YuanHsing/YTM/main/AuroraBorealisLive.m3u8
-Kitten Academy,https://raw.githubusercontent.com/YuanHsing/YTM/main/KittenAcademy.m3u8
-Explore Bears & Bison,https://raw.githubusercontent.com/YuanHsing/YTM/main/explorebears.m3u8
-Kansas City Zoo,https://raw.githubusercontent.com/YuanHsing/YTM/main/kansascityzoo.m3u8
-FOBBV CAM,https://raw.githubusercontent.com/YuanHsing/YTM/main/FOBBVCAM.m3u8
-4K Live Alishan,https://raw.githubusercontent.com/YuanHsing/YTM/main/Alishannsa.m3u8
-eqm,https://raw.githubusercontent.com/YuanHsing/YTM/main/eqm.m3u8
 
-🎨TV Dramas,#genre#
-CTS DRAMA,https://raw.githubusercontent.com/YuanHsing/YTM/main/ctsprog.m3u8
-GTV DRAMA,https://raw.githubusercontent.com/YuanHsing/YTM/main/GTVDRAMA.m3u8
-FTV DRAMA,https://raw.githubusercontent.com/YuanHsing/YTM/main/FTVDRAMA.m3u8
-
-⛱️TV Variety,#genre#
-CTS SHOW,https://raw.githubusercontent.com/YuanHsing/YTM/main/TBSCTSSHOW.m3u8
-CtiEntertainment,https://raw.githubusercontent.com/YuanHsing/YTM/main/CtiEntertainment.m3u8
-Faintv VARIETY1,https://raw.githubusercontent.com/YuanHsing/YTM/main/AsiaDigitalMedia.m3u8
-Faintv VARIETY2,https://raw.githubusercontent.com/YuanHsing/YTM/main/Faintv.m3u8
-Mr.Player,https://raw.githubusercontent.com/YuanHsing/YTM/main/Mr.Player.m3u8
-
-🎡Taiwan News,#genre#
-CTITV News,https://raw.githubusercontent.com/YuanHsing/YTM/main/ctitv.m3u8
-EBC,https://raw.githubusercontent.com/YuanHsing/YTM/main/newsebc.m3u8
-EBC Financial,https://raw.githubusercontent.com/YuanHsing/YTM/main/EBCFinancial.m3u8
-TVBS Global News,https://raw.githubusercontent.com/YuanHsing/YTM/main/TVBSNEWS01.m3u8
-Global News TV,https://raw.githubusercontent.com/YuanHsing/YTM/main/GlobalNewsTV.m3u8
-mnews,https://raw.githubusercontent.com/YuanHsing/YTM/main/mnews.m3u8
-TTV News,https://raw.githubusercontent.com/YuanHsing/YTM/main/ttvnewsview.m3u8
-CTV News,https://raw.githubusercontent.com/YuanHsing/YTM/main/twctvnews.m3u8
-Tzu Chi DaAiVideo,https://raw.githubusercontent.com/YuanHsing/YTM/main/DaAiVideo.m3u8
-SETN Live News,https://raw.githubusercontent.com/YuanHsing/YTM/main/SETN.m3u8
-SET+ Live News,https://raw.githubusercontent.com/YuanHsing/YTM/main/SETLIVE.m3u8
-SET iNEWS,https://raw.githubusercontent.com/YuanHsing/YTM/main/setmoney159.m3u8
-FTVN Live,https://raw.githubusercontent.com/YuanHsing/YTM/main/FTVLIVE.m3u8
-FTVN News,https://raw.githubusercontent.com/YuanHsing/YTM/main/FTVCP.m3u8
-CNN-News18,https://raw.githubusercontent.com/YuanHsing/YTM/main/CNN-News18.m3u8
