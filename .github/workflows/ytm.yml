@@ -32,6 +32,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@PrayerPray/live)
         EOL
+    - name: Get Reformed21.m3u8
+      run: |
+        touch ./Reformed21.m3u8
+        sudo cat >./Reformed21.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/reformed21TV/live)
+        EOL
     - name: Get Wolfoosstories.m3u8
       run: |
         touch ./Wolfoosstories.m3u8
